@@ -16,6 +16,14 @@ npm run build
 
 ```
 
+# Learning channel
+* [vue](https://cn.vuejs.org/)
+* [Element-基于 Vue 2.0 的桌面端组件库](http://element-cn.eleme.io/#/zh-CN)
+* [Mock生成随机数据](http://mockjs.com/) [Mock:语法学习](https://segmentfault.com/a/1190000010211622)
+* [webpack-构建您的项目](https://webpack.js.org/)
+* [axios-基于 promise 的 HTTP 库](https://github.com/mzabriskie/axios)
+    * [axios中文文档](https://www.kancloud.cn/yunye/axios/234845)  
+
 # Folder structure
 * build - webpack config files
 * config - webpack config files
