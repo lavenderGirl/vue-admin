@@ -1,4 +1,4 @@
-**demo**: [https://taylorchen709.github.io/vue-admin/](https://taylorchen709.github.io/vue-admin/)
+**demo**: [https://lavendergirl.github.io/vue-admin/](https://lavendergirl.github.io/vue-admin/dist/#/login)
 
 # To start
 
@@ -15,6 +15,14 @@ npm run dev
 npm run build
 
 ```
+
+# Learning channel
+* [vue](https://cn.vuejs.org/)
+* [Element-基于 Vue 2.0 的桌面端组件库](http://element-cn.eleme.io/#/zh-CN)
+* [Mock生成随机数据](http://mockjs.com/) [Mock:语法学习](https://segmentfault.com/a/1190000010211622)
+* [webpack-构建您的项目](https://webpack.js.org/)
+* [axios-基于 promise 的 HTTP 库](https://github.com/mzabriskie/axios)
+    * [axios中文文档](https://www.kancloud.cn/yunye/axios/234845)  
 
 # Folder structure
 * build - webpack config files
@@ -46,8 +54,9 @@ You can change theme by
 ```
 4. Edit src/styles/vars.scss
 
-![theme-blue](https://raw.githubusercontent.com/taylorchen709/markdown-images/master/vueadmin/rec-demo.gif)
-![theme-green](https://raw.githubusercontent.com/taylorchen709/markdown-images/master/vueadmin/theme-green.png)
+![登录](https://i.loli.net/2018/09/18/5ba05e3161974.png)
+![index](https://i.loli.net/2018/09/18/5ba05e661e6de.png)
+![echart](https://i.loli.net/2018/09/18/5ba05e838ba49.png)
 
 # Browser support
 
