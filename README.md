@@ -46,8 +46,9 @@ You can change theme by
 ```
 4. Edit src/styles/vars.scss
 
-![theme-blue](https://raw.githubusercontent.com/taylorchen709/markdown-images/master/vueadmin/rec-demo.gif)
-![theme-green](https://raw.githubusercontent.com/taylorchen709/markdown-images/master/vueadmin/theme-green.png)
+![登录](https://i.loli.net/2018/09/18/5ba05e3161974.png)
+![index](https://i.loli.net/2018/09/18/5ba05e661e6de.png)
+![echart](https://i.loli.net/2018/09/18/5ba05e838ba49.png)
 
 # Browser support
 
