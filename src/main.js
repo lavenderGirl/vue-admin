@@ -8,8 +8,9 @@ import VueRouter from 'vue-router'
 // import Vuex from 'vuex'
 import routes from './routes'
 import Mock from './mock'
-Mock.bootstrap();
 import 'font-awesome/css/font-awesome.min.css'
+Mock.bootstrap();
+
 
 Vue.use(ElementUI)
 Vue.use(VueRouter)
